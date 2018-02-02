@@ -1,2 +1,2 @@
-Hello Class
+Hello CS246
 By Henry Burden
