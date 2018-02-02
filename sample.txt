@@ -1,2 +1,2 @@
-Hello World
+Hello CS246
 By Henry Burden
